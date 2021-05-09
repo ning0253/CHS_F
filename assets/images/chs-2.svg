@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 306.14 306.14" style="enable-background:new 0 0 306.14 306.14;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#131313;stroke:#121212;stroke-miterlimit:10;}
+	.st1{fill:url(#SVGID_1_);stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_2_);stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_3_);stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#0E357F;}
+	.st5{fill:#012059;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#0D2B66;}
+</style>
+<g>
+	<polygon class="st0" points="160.97,85.32 174.61,72.14 118.24,13.12 104.6,26.3 	"/>
+	<polygon class="st0" points="108.72,30.61 115.03,24.51 103.26,7.5 94.62,15.84 	"/>
+	<polygon class="st0" points="176.93,109.74 181.82,105.11 156.74,79.37 151.85,84 	"/>
+	<polygon class="st0" points="160.97,85.32 147.33,98.5 90.96,39.48 104.6,26.3 	"/>
+	<polygon class="st0" points="108.72,30.61 102.41,36.71 85.98,24.19 94.62,15.84 	"/>
+	<polygon class="st0" points="176.93,109.74 172.04,114.37 146.96,88.63 151.85,84 	"/>
+	<polygon class="st0" points="182.06,88.32 185.57,82.95 163.82,68.66 160.32,74.04 	"/>
+	<polygon class="st0" points="182.06,88.32 178.56,93.7 156.81,79.42 160.32,74.04 	"/>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="116.3252" y1="59.1504" x2="116.3252" y2="59.1504">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#09348B"/>
+</linearGradient>
+<path class="st1" d="M116.33,59.15"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="116.3252" y1="63.8733" x2="116.3252" y2="63.8733">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#09348B"/>
+</linearGradient>
+<path class="st2" d="M116.33,63.87"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="50.0432" y1="104.5257" x2="50.0432" y2="104.5257">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0" style="stop-color:#EDEDF6"/>
+	<stop  offset="0.3212" style="stop-color:#585CA2"/>
+	<stop  offset="1" style="stop-color:#09348B"/>
+</linearGradient>
+<path class="st3" d="M50.04,104.53"/>
+<path class="st4" d="M117.79,63.09c0,0-110.84,48.26-84.33,106.3c29.55,64.68,182.29-14.3,182.29-14.3l-8.22-13.68
+	c0,0-128.31,72.68-147.7,13.25c-12.86-39.42,70.09-79.05,70.09-79.05L117.79,63.09z"/>
+<path class="st5" d="M144.52,194.66c0,0,10.97-62.1-57.11-37.03s42.02,69.57,42.02,69.57s87.99,37.32,48.63,41.57
+	c-39.36,4.25-87.28,1.75-90.85-13.65c-2.92-12.59,13.18-29.76,13.18-29.76l-18.9-12.33c0,0-70.14,57.61-44.08,70.78
+	s174.69,15.89,202.14-0.92c50.06-30.66-101.08-77.93-128.1-87.02c-25.79-8.68-19.47-17.45-1.12-22.81
+	c11.75-3.43,11.73,14.4,11.17,16.98L144.52,194.66z"/>
+<circle class="st6" cx="109.05" cy="184.57" r="14.17"/>
+<circle class="st6" cx="128.19" cy="68.29" r="11.34"/>
+<polygon class="st7" points="266.03,136.45 229.8,148.5 225.12,142.07 220.53,135.78 251.69,117.72 244.53,107.89 158.32,147.06 
+	165.47,156.89 209.37,141.32 213.96,147.62 218.64,154.05 179.79,176.55 186.94,186.37 273.19,146.27 "/>
+<circle class="st6" cx="212" cy="148.85" r="8.5"/>
+</svg>
